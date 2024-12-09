@@ -10,5 +10,3 @@ OR
 select CNNLSTM from the kernel dropdown menu in the top right of VS Code
 
 The first time you run this model, the code will download some word embeddings from this url (http://nlp.stanford.edu/data/glove.6B.zip). Once you've successfully downloaded it, be sure to comment out this code before future runs to save time and unnecessary downloads.
-
-Model [name here] was our follow up attempt to use a transformer to improve our accuracy. ADD MORE HERE.
