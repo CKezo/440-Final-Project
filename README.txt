@@ -1,4 +1,4 @@
-The CNN_LSTM_Hybrid_Model.ipynb was our first attempt at creating a model that could hit the baselines presented by the competition organizers. Unfortunately, this model fell short on the majority of labels but the file will demonstrate quite a few of the changes made in order to improve our predictions. Further discussion in official write up.
+The CNN_LSTM_Hybrid_Model.ipynb was our attempt at creating a model that could hit the baselines presented by the competition organizers. Unfortunately, this model fell short on the majority of labels but the file will demonstrate quite a few of the changes made in order to improve our predictions. Further discussion in official write up.
 
 In order to run the CNN_LSTM_Hybrid_Model.ipynb, please follow the instructions below to set up and activate the environment with all the necessary packages.
 
